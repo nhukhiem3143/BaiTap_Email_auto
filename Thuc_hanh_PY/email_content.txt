@@ -1,0 +1,3 @@
+Chào bạn,
+Đây là email của tôi được gửi tự động bằng Python lần 2.
+Trân trọng.
